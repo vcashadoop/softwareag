@@ -33,7 +33,7 @@ metadata:
   labels:
     app: ashudep1
   name: mydepservice
-  namespace: ashuns
+  namespace: vikasns
   resourceVersion: "171589"
   selfLink: /api/v1/namespaces/ashuns/services/mydepservice
   uid: d2247d81-4dc3-4c19-85bd-a318b77d9bcd

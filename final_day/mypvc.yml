@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: ashuclaim
-  namespace: ashutoshh
+  name: vikasclaim
+  namespace: vikasns
 spec:
   accessModes:
     - ReadWriteOnce

@@ -4,7 +4,7 @@ metadata:
   labels:
     app: ashudep11
   name: ashudep11
-  namespace: ashuns
+  namespace: vikasns
 spec:
   replicas: 1
   selector:

@@ -4,7 +4,7 @@ metadata:
   labels:
     run: ashupod1
   name: pod1
-  namespace: ashuns
+  namespace: vikasns
 spec:
   nodeName: ip-172-31-16-239.us-west-2.compute.internal 
   containers:

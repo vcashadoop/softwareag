@@ -17,7 +17,7 @@ spec:
     spec:
       nodeName: ip-172-31-17-218.us-west-2.compute.internal
       containers:
-      - image: dockerashu/webapp:v2
+      - image: vikasgre/web:v2
         imagePullPolicy: IfNotPresent
         name: webapp
         volumeMounts:
